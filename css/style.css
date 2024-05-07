@@ -27,7 +27,7 @@ body {
 .round {
     display: flex;
     border-radius: 50%;
-    width: 50%;
+    width: 30%;
 	min-width: 260px;
 }
 
