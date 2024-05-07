@@ -1,11 +1,7 @@
 
 
-.flex-container-row	{
-	display: inline;
-	flex-direction: row;
-	align-items: center;
 
-}
+
 .sameline {
 
 margin-bottom: -17px;
@@ -51,9 +47,4 @@ a {
 	color: black;
 	text-decoration-line: none;
 	
-}
-
-.divider {
-	display: block;
-	border-bottom: 0.5px solid black;
 }
