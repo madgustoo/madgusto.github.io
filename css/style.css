@@ -1,3 +1,17 @@
+
+
+.flex-container-row	{
+	display: inline;
+	flex-direction: row;
+	align-items: center;
+
+}
+.sameline {
+
+margin-bottom: -15px;
+}
+
+
 body {
 	font-family: 'roboto'; 
 	padding: 4rem;
@@ -17,9 +31,7 @@ body {
 	min-width: 260px;
 }
 
-.sameline {
-	display: inline;
-}
+
 
 .name {
 	font-size: 3rem;
@@ -29,6 +41,16 @@ body {
 .content-container {
 	width: 100%;
 	max-width: 600px;
+}
+
+.divider {
+	display: block;
+	border-bottom: 0.5px solid black;
+}
+a {
+	color: black;
+	text-decoration-line: none;
+	
 }
 
 .divider {
